@@ -4,7 +4,7 @@ I am making a game in unity called white silence. It is a physiological horror g
 //⚠️ Very early build. Right now you can walk around and explore the first scene. This is a first playable milestone, not a //demo of the final game.
 
 Play it
-You can play it on my itch.io page -->
+You can play it on my itch.io page --> https://flyingtoschi.itch.io/white-silence
 
 Current Build
 * You can walk in the first Scene and trigger a (unfinished) cutscene 
