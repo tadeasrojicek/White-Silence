@@ -18,7 +18,7 @@ What's planned?
 * Models made by me
 
 About the Dyatlov Pass incident
-White-Silence draws inspiration from the real 1959 Dyatlov Pass incident, in which nine hikers died under still-unexplained circumstances in the Ural Mountains. The game is a fictionalized interpretation, not a factual retelling.
+*White-Silence draws inspiration from the real 1959 Dyatlov Pass incident, in which nine hikers died under still-unexplained circumstances in the Ural Mountains. The game is a fictionalized interpretation, not a factual retelling.
 
 
 I am really excited to be working on this Project. At the time I am still using lots of assets from the assets store. But I want to make my models when the game is playable.
