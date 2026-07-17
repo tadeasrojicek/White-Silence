@@ -7,15 +7,15 @@ Play it
 You can play it on my itch.io page -->
 
 Current Build
-. You can walk in the first Scene and trigger a (unfinished) cutscene 
+* You can walk in the first Scene and trigger a (unfinished) cutscene 
 
 
 What's planned?
-. openworld
-. Investigation mechanics (audio logs, notes, etc...)
-. Story
-. Sound and enviroment design
-. Models made by me
+* openworld
+* Investigation mechanics (audio logs, notes, etc...)
+* Story
+* Sound and enviroment design
+* Models made by me
 
 About the Dyatlov Pass incident
 White-Silence draws inspiration from the real 1959 Dyatlov Pass incident, in which nine hikers died under still-unexplained circumstances in the Ural Mountains. The game is a fictionalized interpretation, not a factual retelling.
